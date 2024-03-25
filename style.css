@@ -428,7 +428,7 @@ main .sobre {
 }
 
 .experience_content ul {
-    color: #ff5d56;
+    color: #3e3d3d;;
     gap: 10px;
     cursor: pointer;
     margin-top: 20px;
@@ -478,7 +478,7 @@ main .sobre {
 }
 
 .experience_content ul li.ativo {
-    color: #3e3d3d;
+    color: #ff5d56;
 }
 
 /* MEUS DIPLOMA E CURSOS */
